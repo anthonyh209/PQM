@@ -1,6 +1,6 @@
-# PQD
+# QPM
 
-*Prediction of Quality Data*  is a project which investigates the feasibility of predicting quality ratings of wine samples using different ML regression models.  
+*Quality Prediction Model*  is a project which investigates the feasibility of predicting quality ratings of wine samples using different ML regression models.  
 
 For more details and an introduction into the inner workings of the models, please refer to the included report.
 
